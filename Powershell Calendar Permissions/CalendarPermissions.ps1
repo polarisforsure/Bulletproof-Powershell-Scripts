@@ -1,6 +1,6 @@
 # Install EXOV2 module if it's not already installed
-if (!(Get-Module -Name EXOV2)) {
-  Install-Module -Name EXOV2
+if (!(Get-Module -Name EXOV3)) {
+  Install-Module -Name EXOV3
 }
 
 # Log in to your tenant
